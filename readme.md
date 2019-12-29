@@ -1,3 +1,5 @@
+[![GoDoc](https://godoc.org/github.com/jkulvich/intelpower?status.svg)](https://godoc.org/github.com/jkulvich/intelpower)
+
 # What is it?
 
 Intel CPU control package.  
