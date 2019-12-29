@@ -5,6 +5,7 @@
 ![Go Mod Platform](https://img.shields.io/badge/platform-linux-blue)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jkulvich/intelpower)
 ![GitHub issues](https://img.shields.io/github/issues/jkulvich/intelpower)
+![CPU support](https://img.shields.io/badge/CPU%20min.%20family%20support-Intel%20Sandy%20Bridge-blue)
 
 # What is it?
 
