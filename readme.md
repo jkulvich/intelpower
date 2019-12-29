@@ -53,9 +53,9 @@ minFreq, _ := cpus[0].GetMinFreq()
 cpus[3].SetOnline(false)
 
 // CPU governor mode
-cpus[3].SetGovernor = CPUGovernorPerformance
+cpus[3].SetGovernor(CPUGovernorPerformance)
 
 // CPU preference mode
-cpus[3].SetPreference = CPUPreferencePerformance
+cpus[3].SetPreference(CPUPreferencePerformance)
 
 ```
