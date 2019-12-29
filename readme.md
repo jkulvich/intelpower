@@ -1,11 +1,10 @@
-![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/jkulvich/intelpower)
+[![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/jkulvich/intelpower)](https://blog.golang.org/go1.13)
 [![GoDoc](https://godoc.org/github.com/jkulvich/intelpower?status.svg)](https://godoc.org/github.com/jkulvich/intelpower)
-![GitHub](https://img.shields.io/github/license/jkulvich/intelpower)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/jkulvich/intelpower)
-![Go Mod Platform](https://img.shields.io/badge/platform-linux-blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/jkulvich/intelpower)
-![GitHub issues](https://img.shields.io/github/issues/jkulvich/intelpower)
-![CPU support](https://img.shields.io/badge/CPU%20min.%20family%20support-Intel%20Sandy%20Bridge-blue)
+[![GitHub](https://img.shields.io/github/license/jkulvich/intelpower)](https://github.com/jkulvich/intelpower/blob/master/LICENSE)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/jkulvich/intelpower)](https://github.com/jkulvich/intelpower/releases)
+[![GitHub last commit](https://img.shields.io/github/last-commit/jkulvich/intelpower)](https://github.com/jkulvich/intelpower/commits/master)
+[![GitHub issues](https://img.shields.io/github/issues/jkulvich/intelpower)](https://github.com/jkulvich/intelpower/issues)
+[![CPU support](https://img.shields.io/badge/CPU%20min.%20family%20support-Intel%20Sandy%20Bridge-blue)](https://en.m.wikipedia.org/wiki/Sandy_Bridge)
 
 # What is it?
 
