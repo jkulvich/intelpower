@@ -1,7 +1,7 @@
 # What is it?
 
 Intel CPU control package.  
-Documentation can be found here.
+Documentation can be [found here](https://godoc.org/github.com/jkulvich/intelpower).
 
 # Requirements
 
