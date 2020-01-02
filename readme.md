@@ -7,7 +7,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/jkulvich/intelpower)](https://github.com/jkulvich/intelpower/issues)
 [![CPU support](https://img.shields.io/badge/CPU%20min.%20family%20support-Intel%20Sandy%20Bridge-blue)](https://en.m.wikipedia.org/wiki/Sandy_Bridge)
 
-> This repo doesn't support. See: github.com/gopowersupply/intelcpu
+### This repo doesn't support. See: [https://github.com/gopowersupply/intelcpu](github.com/gopowersupply/intelcpu)
 
 # What is it?
 
